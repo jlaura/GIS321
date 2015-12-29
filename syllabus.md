@@ -2,23 +2,20 @@ Course name: **Principles of Programming for GIScience**
 
 Course number: GIS 321
 
+**Course prerequisites**:  **CSE 110**
 
+--
 
 **Instructor and contact information:**
 
-**I**nstructor: Sergio J. Rey
+**I**nstructor: Jay Laura
 
-Office hours: TBA
+Office hours: Via email or scheduled via Google Hangout or Phone
 
-Office location: COOR 5612
+Email: jlaura@asu.edu
 
-Email: Sergio.Rey@asu.edu
+--
 
-
-
-**Course prerequisites**
-
-**CSE 110**
 
 
 
@@ -50,7 +47,7 @@ environment.
 Provide students with skill sets that are in high demand within academic
 GIScience and commercial GIS development.
 
-
+--
 
 **Grading policy:**
 
@@ -62,39 +59,19 @@ Grading in the course will be based on the following point system:
 | **Component**                        | **Points**                           |
 |--------------------------------------|--------------------------------------|
 | 12 Exercises                         | 360                                  |
-| Exam 1                               | 100                                  |
-| Exam 2                               | 200                                  |
+| Exam 1                               | 120                                  |
+| Exam 2                               | 220                                  |
 | Exam 3                               | 300                                  |
-| Participation                        | 40                                   |
 | Total                                | 1000                                 |
 
+**Exams** will be based on the readings, discussion forum posts, and exercises. All exams are cumulative.  Late exams will not be accepted.
 
-Course final letter grades will be assigned as follows:
-
-**LetterPercentagePoints**
-
-**Exams** will be based on the textbook, lectures and exercises.<span
-class="Apple-converted-space">  </span>All exams are cumulative.<span
-class="Apple-converted-space">  </span>Any makeup exam regardless of the
-reason will be an in-person oral exam with Prof. Rey.
-
-
-
-**Exercises** will be completed and uploaded to Blackboard.Late exercises are not accepted.
-Exercises will be graded on a pass (30)/ fail (0) basis.
-
-
-
-**Class participation** will be judged based on attendance at lectures,
-but *active participation in class*. In addition, several classes will
-have unannounced **in-class exercises** worth 3-5 points each.
-
-
+**Exercises** will be completed using Github and Github Classroom, and grades recorded in BlackBoard.
 
 There are **no extra credit assignments** to make up for poor
 performance on exams, exercises, or missed in-class activities.
 
-
+--
 
 **Required and recommended readings:**
 
@@ -108,30 +85,28 @@ Percival, H. (2014) *Test-Driven Development with Python. O'Reilly, Sebastopol.*
 
 Other readings to be assigned.
 
-
+--
 
 **Weekly activities**
 
-
-
 | **Week  | Topics | Readings | Assigned| Due |
 |---------|--------|----------|---------|-----|
-| 1 | Course Introduction, Software Installation || E0 Configuration |
-| 2 | Python Introduction, Interpreters | Ch 1 | E1 Basic Python | E0 Configuration | 
-| 3 | Editors , Repositories | TBA | E2 Git | E1 Basic Python |
-| 4 | Operators/Operands, Sequences | Ch 2, Ch 8, 9, 11 | E3 Sequences | E2 Git |
-| 5 | Dictionaries, **Exam 1** | Ch 10 | |
-| 6 | Conditional Execution, Files |Ch 5, Ch 14 | E4 Random access | E3 Sequences| 
-| 7 | Functions, Modules | Ch 3, 6 | E5 Functions | E4 Random access|
-| 8 | Object Orientation, Inheritance | Ch 15,16, 17 | E6 Dispatching | E5 Functions |
-| 9 | Composition, Functional Programming | Ch 18 | E7 Object Orientation | E6 Dispatching|
-| 10 | List Comprehension, **Exam 2** ||||
-| 11 | Numerical Programming, Numpy | TBA | E8 Numerical Programming | E7 Object Orientation |
-| 12 | Event Driven Programming, Tkinter Introduction | Ch 19 | E9 GUI Design | E8 Numerical Programming |
-| 13 | Widgets, Event Handling | Ch 19 | E10 Interaction | E9 Gui Design | 
-| 14 | Test Driven Development, Doc Tests | TBA | E11 |  Doc Tests | E10 Interaction| 
-| 15 | Debugging, *Review* |App A | E11 Doc Tests| 
-| 16 | *Final Exam*|
+| 1 | Course Introduction, Software Installation, Intro to Git |Configuration| E0 Configuration |
+| 2 | Python Introduction, Test Driven Development, Koans |Scientific Python, Ch 2| E1 Basic Python Types | E0 Configuration |
+| 3 | Python Interpreters, Editors, Local Testing, Strings, None | Ch 1, Ch 8, Ap. A | E2 Strings & None| E1 Basic Python Types | 
+| 4 | Continious Integration Environments, Operators/operands | TBA |E3 Point Statistics | E2 Strings & None
+| 5 | Sequences, Dictionaries |Ch7, Ch9, Ch11, Ch20 | **Exam 1** | E3 Point Statistics |
+| 6 | Conditional Execution, Files | Ch5, Ch13| E4 Iterables & Conditions | Exam 1|
+| 7 | Functions, Methods, Modules | Ch4, Ch6, Ch12, Ch15 | E5 Point Pattern Module I | E4 Iterables & Conditions|
+| 8 | OOP, Inheritance | Ch16, Ch21, Ch23 | E6 | E5 Point Pattern Module II |
+| 9 | Composition | Ch22 | E6 Functional Point Patterns | E5 Point Pattern Module II | 
+| 10| Functional Programming, List Comprehensions| TBA | **Exam 2** | E5 Point Pattern Module II |
+| 11| Geospatial & Numerical Libraries | TBA | E7 Numerical Programming | Exam 2| 
+| 12| Qt Installation & Basic GUI Development | Ch10, TBA| E8 PyQt | E7 Numerical Programming | 
+| 13| Event Driven Programming | TBA | E9 QGIS Plugin I | E8 PyQt |
+| 14| Event Handling & Widgets | TBA | E10 QGIS Plugin II | E9 QGIS Plugin I|
+| 15| MVC |TBA| E11 Integration | E10 QGIS Plugin II |
+| 16| **Final Exam** | | E11 Integration |
 
 
 **Academic integrity**

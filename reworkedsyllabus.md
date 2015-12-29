@@ -4,16 +4,22 @@ Modified Course Order
 
 | **Week  | Topics | Readings | Assigned| Due |
 |---------|--------|----------|---------|-----|
-| 1 | Course Introduction, Software Installation, Intro to Git | E0 Configuration |
-| 2 | Python Introduction, Test Driven Development, Koans | Ch 1 | E1 Basic Python Types | E0 Configuration |
-| 3 | Python Interpreters, Editors, Local Testing, Strings, None |
-| 4 | Continious Integration Environments, Operators/operands |
-| 5 | Sequences, Dictionaries | | Exam 1 |
-| 6 | Conditional Execution, Files | | | Exam 1|
-| 7 | Functions, Methods, Modules |
-| 8 | OOP, Inheritance, Composition | 
-| 9 | Functional Programming
-
+| 1 | Course Introduction, Software Installation, Intro to Git |Configuration| E0 Configuration |
+| 2 | Python Introduction, Test Driven Development, Koans |Scientific Python, Ch 2| E1 Basic Python Types | E0 Configuration |
+| 3 | Python Interpreters, Editors, Local Testing, Strings, None | Ch 1, Ch 8, Ap. A | E2 Strings & None| E1 Basic Python Types | 
+| 4 | Continious Integration Environments, Operators/operands | TBA |E3 Point Statistics | E2 Strings & None
+| 5 | Sequences, Dictionaries |Ch7, Ch9, Ch11, Ch20 | Exam 1 | E3 Point Statistics |
+| 6 | Conditional Execution, Files | Ch5, Ch13| E4 Iterables & Conditions | Exam 1|
+| 7 | Functions, Methods, Modules | Ch4, Ch6, Ch12, Ch15 | E5 Point Pattern Module I | E4 Iterables & Conditions|
+| 8 | OOP, Inheritance | Ch16, Ch21, Ch23 | E6 | E5 Point Pattern Module II |
+| 9 | Composition | Ch22 | E6 Functional Point Patterns | E5 Point Pattern Module II | 
+| 10| Functional Programming, List Comprehensions| TBA |Exam 2 | E5 Point Pattern Module II |
+| 11| Geospatial & Numerical Libraries | TBA | E7 Numerical Programming | Exam 2| 
+| 12| Event Driven Programming, Basic GUI Development | Ch10, | E8 PyQt | E7 Numerical Programming | 
+| 13| Plugins & APIs| TBA| E9 QGIS Plugin I | E8 PyQt |
+| 14| Event Handling & Widgets|TBA| E10 QGIS Plugin II | E9 QGIS Plugin I|
+| 15| MVC |TBA| E11 Integration | E10 QGIS Plugin II |
+| 16| Final Exam | | E11 Integration |
 
 Week breakdown - my thinking is that from week 4 onwards a concept will be introduced and that concept used in some spatial way (data structure, algorithm, both, etc.).  What if we build a point pattern analysis module?
 
@@ -25,7 +31,7 @@ Week 2, still no interpreter (intentionally).  Students will fix a number of ass
 
 Week 3, introduces the interpreter (iPython via a shell, Jupyter notebook (?)), editors, strings, and None.  
 
-Week 4, operators / operands.  This is still preyy basic, but some basic spatial concepts must be coverable:
+Week 4, operators / operands.  This is still pretty basic, but some spatial concepts must be coverable:
 	
   * Distance between 2 points
   * Projection from Lat/Lon to Equirectangular
