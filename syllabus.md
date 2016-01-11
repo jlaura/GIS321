@@ -83,15 +83,18 @@ Scientist: Learning with Python 3. OpenBookProject* [How to Think Like a Compute
 Percival, H. (2014) *Test-Driven Development with Python. O'Reilly, Sebastopol.*
 [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 
+Chacon, S. and Straub, B. (2014) *Pro Git.* [Git: Distributed Even if Your Workflow Isn't](https://git-scm.com/book/en/v2)
+
 Other readings to be assigned.
 
 --
 
 **Weekly activities**
+All readings are from the How to Think Like a Computer Scientist text unless noted, e.g. with a `Git Ch1` descriptor.
 
 | **Week  | Topics | Readings | Assigned| Due |
 |---------|--------|----------|---------|-----|
-| 1 | Course Introduction, Software Installation, Intro to Git |Configuration| E0 Configuration |
+| 1 | Course Introduction, Software Installation, Intro to Git |Configuration, Git Ch1, Ch2.1, Ch6.1| E0 Configuration |
 | 2 | Python Introduction, Test Driven Development, Koans |Scientific Python, Ch 2| E1 Basic Python Types | E0 Configuration |
 | 3 | Python Interpreters, Editors, Local Testing, Strings, None | Ch 1, Ch 8, Ap. A | E2 Strings & None| E1 Basic Python Types | 
 | 4 | Continious Integration Environments, Operators/operands | TBA |E3 Point Statistics | E2 Strings & None
